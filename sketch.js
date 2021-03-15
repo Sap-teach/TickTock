@@ -10,7 +10,7 @@ function draw() {
   fill(255);
   textSize(24);
   textStyle("bold");
-  text("Tick - Tock Clock :D", 100,400); 
+  text("TickTock", 100,400); 
   
 
 translate(200,200)
